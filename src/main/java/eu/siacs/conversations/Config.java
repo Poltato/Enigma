@@ -45,12 +45,12 @@ public final class Config {
 
     public static final Jid BUG_REPORTS = Jid.of("bugs@conversations.im");
     public static final Uri HELP = Uri.parse("https://help.conversations.im");
-    public static final String MAGIC_CREATE_DOMAIN = "fiorencis.eu.org";
+    public static final String MAGIC_CREATE_DOMAIN = "enigma.nya.pub";
     public static final Jid QUICKSY_DOMAIN = Jid.of("quicksy.im");
 
     public static final String CHANNEL_DISCOVERY = "https://search.jabber.network";
 
-    public static final boolean DISALLOW_REGISTRATION_IN_UI = true; // hide the register checkbox
+    public static final boolean DISALLOW_REGISTRATION_IN_UI = false; // hide the register checkbox
 
     public static final boolean USE_RANDOM_RESOURCE_ON_EVERY_BIND = false;
 

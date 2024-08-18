@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pick_a_server">XMPP プロバイダーを選択してください</string>
-    <string name="use_conversations.im">fiorencis.eu.org を利用する</string>
+    <string name="use_conversations.im">enigma.nya.pub を利用する</string>
     <string name="create_new_account">アカウントを新規作成</string>
     <string name="do_you_have_an_account">XMPP アカウントをお持ちですか？ 既に他の XMPP クライアントを利用しているか、 Conversations を利用したことがある場合はアカウントをお持ちです。初めての方は、今すぐ XMPP アカウントを新規作成できます。
 \nヒント: いくつかのメールプロバイダーは XMPP アカウントも提供しています。</string>

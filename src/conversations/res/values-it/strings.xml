@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pick_a_server">Scegli il tuo fornitore XMPP</string>
-    <string name="use_conversations.im">Usa fiorencis.eu.org</string>
+    <string name="use_conversations.im">Usa enigma.nya.pub</string>
     <string name="create_new_account">Crea un nuovo profilo</string>
     <string name="do_you_have_an_account">Il client XMPP Android ufficiale della rete Fiorencis basato su Conversations.\nHai già un profilo Enigma o XMPP\? Può accadere se stai già usando un client XMPP diverso o hai già usato Enigma in precedenza. In caso negativo, puoi creare un profilo XMPP adesso.</string>
     <string name="server_select_text">XMPP è una rete di messaggistica istantanea indipendente dal fornitore. Puoi usare questa app con qualsiasi server XMPP.
