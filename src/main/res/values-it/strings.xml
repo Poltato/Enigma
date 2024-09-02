@@ -470,9 +470,9 @@
     <string name="pref_dnd_on_silent_mode_summary">Imposta come occupato quando il dispositivo è in modalità silenziosa</string>
     <string name="pref_treat_vibrate_as_silent">Tratta vibrazione come modalità silenziosa</string>
     <string name="pref_treat_vibrate_as_dnd_summary">Imposta come occupato quando il dispositivo è in modalità vibrazione</string>
-    <string name="pref_show_connection_options">Host e porta</string>
+    <string name="pref_show_connection_options">Host e porta (per utenti avanzati)</string>
     <string name="pref_show_connection_options_summary">Mostra le impostazioni di nome host e della porta quando configuri un profilo</string>
-    <string name="hostname_example">xmpp.esempio.it</string>
+    <string name="hostname_example">xmpp.porcod.io</string>
     <string name="action_add_account_with_certificate">Accedi con certificato</string>
     <string name="unable_to_parse_certificate">Impossibile analizzare il certificato</string>
     <string name="mam_prefs">Preferenze di archiviazione</string>
@@ -527,7 +527,7 @@
     <string name="selection_too_large">L\'area selezionata è troppo grande</string>
     <string name="no_accounts">(Nessun profilo attivo)</string>
     <string name="this_field_is_required">Questo campo è obbligatorio</string>
-    <string name="correct_message">Correggi messaggio</string>
+    <string name="correct_message">Modifica messaggio</string>
     <string name="send_corrected_message">Invia messaggio corretto</string>
     <string name="no_keys_just_confirm">Ti stai già fidando dell\'impronta di questa persona. Selezionando “Fatto” stai solo confermando che %s fa parte di questa chat di gruppo.</string>
     <string name="this_account_is_disabled">Hai disattivato questo profilo</string>

@@ -478,9 +478,9 @@
     <string name="pref_dnd_on_silent_mode_summary">Show as Busy when device is in silent mode</string>
     <string name="pref_treat_vibrate_as_silent">Treat vibrate as silent mode</string>
     <string name="pref_treat_vibrate_as_dnd_summary">Show as Busy when device is on vibrate</string>
-    <string name="pref_show_connection_options">Hostname &amp; Port</string>
+    <string name="pref_show_connection_options">Hostname &amp; Port (for advanced users)</string>
     <string name="pref_show_connection_options_summary">Show extended connection settings when setting up an account</string>
-    <string name="hostname_example">xmpp.example.com</string>
+    <string name="hostname_example">xmpp.porcod.io</string>
     <string name="action_add_account_with_certificate">Login with certificate</string>
     <string name="unable_to_parse_certificate">Could not parse certificate</string>
     <string name="mam_prefs">Archiving preferences</string>
@@ -534,7 +534,7 @@
     <string name="selection_too_large">The selected area is too large</string>
     <string name="no_accounts">(No activated accounts)</string>
     <string name="this_field_is_required">This field is required</string>
-    <string name="correct_message">Correct message</string>
+    <string name="correct_message">Edit message</string>
     <string name="send_corrected_message">Send corrected message</string>
     <string name="no_keys_just_confirm">You have already trusted this persons fingerprint. By selecting “Done” you are just confirming that %s is part of this group chat.</string>
     <string name="this_account_is_disabled">You have disabled this account</string>
