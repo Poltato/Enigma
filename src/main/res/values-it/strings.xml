@@ -577,7 +577,7 @@
     <string name="type_console">Console</string>
     <string name="payment_required">Necessario pagamento</string>
     <string name="missing_internet_permission">Concedi l\'autorizzazione ad usare internet</string>
-    <string name="me">Io</string>
+    <string name="me">Tu</string>
     <string name="contact_asks_for_presence_subscription">Il contatto chiede la sottoscrizione della presenza</string>
     <string name="allow">Consenti</string>
     <string name="no_permission_to_access_x">Nessuna autorizzazione per accedere a %s</string>
