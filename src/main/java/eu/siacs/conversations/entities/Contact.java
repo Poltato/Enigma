@@ -537,7 +537,7 @@ public class Contact implements ListItem, Blockable {
         setOption(getOption(phoneContact.getClass()));
         setSystemAccount(phoneContact.getLookupUri());
         boolean changed = setSystemName(phoneContact.getDisplayName());
-        changed |= setPhotoUri(phoneContact.getPhotoUri());
+        //changed |= setPhotoUri(phoneContact.getPhotoUri());
         return changed;
     }
 
